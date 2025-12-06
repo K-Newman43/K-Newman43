@@ -7,7 +7,7 @@
 - 🌱 **Certification Progress:** Advancing AWS Solutions Architect and Azure Administrator certifications
 - 👯 **Community Contribution:** Sharing cloud architecture patterns and DevOps best practices through technical blogs
 - 💬 **Expertise Areas:** Cloud Migration, DevSecOps, Kubernetes, Terraform, Azure DevOps, CI/CD Automation
-- 📫 **Contact:** Newmankendrick2@gmail.com | [LinkedIn](https://linkedin.com/in/ken-newman) | [Portfolio](https://website.com)
+- 📫 **Contact:** Newmankendrick2@gmail.com | [LinkedIn](https://linkedin.com/in/ken-newman) | [Portfolio](https://cloud-champ.net)
 - ⚡ **Fun Fact:** Former IT Director who transitioned to hands-on cloud engineering. I believe in the power of automation to transform legacy enterprises!
 
 ## ⚡ Technical Domains
@@ -84,9 +84,10 @@ Collection of Terraform modules for AWS and Azure covering networking, compute, 
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/K-Newman43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ken-newman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ken-newman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ken-newman" height="30" width="40" /></a>
 <a href="https://cloud-champ.net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="cloud-champ" height="30" width="40" /></a>
 <a href="mailto:newmankendrick2@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="30" width="40" /></a>
+<a href="https://github.com/K-Newman43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
 </p>
 
 ---
