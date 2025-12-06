@@ -7,7 +7,7 @@
 - 🌱 **Certification Progress:** Advancing AWS Solutions Architect and Azure Administrator certifications
 - 👯 **Community Contribution:** Sharing cloud architecture patterns and DevOps best practices through technical blogs
 - 💬 **Expertise Areas:** Cloud Migration, DevSecOps, Kubernetes, Terraform, Azure DevOps, CI/CD Automation
-- 📫 **Contact:** Newmankendrick2@gmail.com | [LinkedIn](https://linkedin.com/in/ken-newman) | [Portfolio](https://cloud-champ.net)
+- 📫 **Contact:** Newmankendrick2@gmail.com | [LinkedIn](https://linkedin.com/in/ken-newman) | [Portfolio](https://website.com)
 - ⚡ **Fun Fact:** Former IT Director who transitioned to hands-on cloud engineering. I believe in the power of automation to transform legacy enterprises!
 
 ## ⚡ Technical Domains
@@ -59,18 +59,18 @@
 
 ## ⚡ GitHub Statistics
 
-| <a href="https://github.com/ken-newman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ken-newman&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true" alt="Ken's GitHub Stats" /></a> | <a href="https://github.com/ken-newman/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-newman&layout=compact&theme=dark&hide_border=true&langs_count=8" /></a> |
+| <a href="https://github.com/K-Newman43/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=K-Newman43&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true" alt="Ken's GitHub Stats" /></a> | <a href="https://github.com/K-Newman43/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Newman43&layout=compact&theme=dark&hide_border=true&langs_count=8" /></a> |
 | ------------- | ------------- |
 
 ## ⚡ Recent Projects
 
-### [Multi-Cloud Kubernetes Automation](https://github.com/ken-newman/multi-cloud-k8s)
+### [Multi-Cloud Kubernetes Automation](https://github.com/K-Newman43/multi-cloud-k8s)
 Terraform modules for deploying production-ready Kubernetes clusters on AWS EKS and Azure AKS with integrated monitoring and security.
 
-### [Azure DevOps Pipeline Templates](https://github.com/ken-newman/azure-devops-templates)
+### [Azure DevOps Pipeline Templates](https://github.com/K-Newman43/azure-devops-templates)
 Reusable Azure DevOps pipeline templates for .NET, Java, and Python applications with built-in security scanning and compliance checks.
 
-### [Terraform Cloud Modules](https://github.com/ken-newman/terraform-cloud-modules)
+### [Terraform Cloud Modules](https://github.com/K-Newman43/terraform-cloud-modules)
 Collection of Terraform modules for AWS and Azure covering networking, compute, database, and security services.
 
 ## ⚡ Certifications & Education
@@ -84,7 +84,7 @@ Collection of Terraform modules for AWS and Azure covering networking, compute, 
 ## 📫 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/ken-newman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ken-newman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/K-Newman43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ken-newman" height="30" width="40" /></a>
 <a href="https://cloud-champ.net" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="cloud-champ" height="30" width="40" /></a>
 <a href="mailto:newmankendrick2@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" height="30" width="40" /></a>
 </p>
