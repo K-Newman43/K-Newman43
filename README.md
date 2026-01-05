@@ -7,7 +7,7 @@
 - 🌱 **Certification Progress:** Advancing AWS Solutions Architect and Azure Administrator certifications
 - 👯 **Community Contribution:** Sharing cloud architecture patterns and DevOps best practices through technical blogs
 - 💬 **Expertise Areas:** Cloud Migration, DevSecOps, Kubernetes, Terraform, Azure DevOps, CI/CD Automation
-- 📫 **Contact:** Newmankendrick2@gmail.com | [LinkedIn](https://www.linkedin.com/in/kendrick-newman/) | [Portfolio](https://cloud-champ.net)
+- 📫 **Contact:** Newmankendrick2@gmail.com | [LinkedIn](https://www.linkedin.com/in/kendrick-newman/) | [Portfolio](https://portfolio-plum-six-vr9nthlqkz.vercel.app/)
 - ⚡ **Fun Fact:** Former IT Director who transitioned to hands-on cloud engineering. I believe in the power of automation to transform legacy enterprises!
 
 ## ⚡ Technical Domains
